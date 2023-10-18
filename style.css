@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    border: none;
+    padding: 12px 32px;
+    border-radius: 10px;
+    width: 100%;
+    margin: 32px 20%;
+}
+.btn:hover{
+    color: hotpink;
+    background-color: lightblue;
+}
+
+.top1{
+    display: flex;
+    justify-content: space-around
+}
+
+.top{
+    border: 1px none black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+   
+}
+
+.foto{
+    width: 100px;
+    height: 100px;
+}
+
+.foto2{
+    width: 100px;
+    height: 100px;
+}
+
+.foto3{
+    width: 100px;
+    height: 100px;
+}
+
+.foto4{
+    width: 100px;
+    height: 100px;
+}
+
+.foto-item{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.paragraf1 .paragraf{
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
